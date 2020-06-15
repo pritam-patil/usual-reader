@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ReactJS test app with Material-UI configured with webpack",
   "main": "index.js",
+  "homepage": "https://pritam-patil.github.io/usual-reader/",
   "scripts": {
     "serve": "node server",
     "lint": "eslint --debug src/",
