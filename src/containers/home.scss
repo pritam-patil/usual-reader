@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.search-start-middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 32px;
+  margin: 4px;
+}
+
+.search-page-middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
